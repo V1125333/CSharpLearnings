@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSharpTrainingHandson/1.0.0": {
+        "runtime": {
+          "CSharpTrainingHandson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpTrainingHandson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

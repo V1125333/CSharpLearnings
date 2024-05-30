@@ -1,0 +1,14 @@
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/bin/Debug/net8.0/CSharpTrainingHandson
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/bin/Debug/net8.0/CSharpTrainingHandson.deps.json
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/bin/Debug/net8.0/CSharpTrainingHandson.runtimeconfig.json
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/bin/Debug/net8.0/CSharpTrainingHandson.dll
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/bin/Debug/net8.0/CSharpTrainingHandson.pdb
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.AssemblyInfoInputs.cache
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.AssemblyInfo.cs
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.csproj.CoreCompileInputs.cache
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.dll
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/refint/CSharpTrainingHandson.dll
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.pdb
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.genruntimeconfig.cache
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/ref/CSharpTrainingHandson.dll
