@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpTrainingHandson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d41a04b873eabf67f9290e8a527d31f2d81b0107")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpTrainingHandson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpTrainingHandson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

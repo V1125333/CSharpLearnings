@@ -12,3 +12,4 @@
 /Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.pdb
 /Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.genruntimeconfig.cache
 /Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/ref/CSharpTrainingHandson.dll
+/Users/venumadhavpendurthi/STUDY/90 Days/Professional Growth/C#/MyLearning/CSharpHandson/CSharpTrainingHandson/obj/Debug/net8.0/CSharpTrainingHandson.sourcelink.json
